@@ -11,3 +11,4 @@ while True:
     arduino.setangulo(angulo_servo)
     print(arduino.getlines())
 
+

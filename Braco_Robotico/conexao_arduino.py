@@ -15,4 +15,3 @@ class ArduinoConexao:
 
     def getlines(self) -> str:
         return str(self.conexao.readline().decode())
-
