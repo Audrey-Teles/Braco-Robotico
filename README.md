@@ -8,7 +8,7 @@
 <ul>
   
 <li>
-  <img src="https://img.icons8.com/color/48/000000/arduino.png" width="20"/>
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" width="18"/>
   <a href="https://github.com/Audrey-Teles/Braco-Robotico/blob/main/braco_com_python.ino">braco_com_python.ino<a><br>
 </li>
 <li>
