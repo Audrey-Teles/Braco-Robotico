@@ -9,7 +9,7 @@
   
 <li>
   <img src="https://img.icons8.com/color/48/000000/arduino.png" width="18"/>
-  <a href="https://github.com/Audrey-Teles/Braco-Robotico/blob/main/braco_com_python.ino">braco_robotico.ino<a><br>
+  <a href="https://github.com/Audrey-Teles/Braco-Robotico/blob/main/braco_robotico.ino">braco_robotico.ino<a><br>
 </li>
 <li>
   <img src="https://user-images.githubusercontent.com/68817384/145720834-9a644d88-592a-4919-b92d-50f69aee5519.png" width="15"/>
